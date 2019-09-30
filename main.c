@@ -14,12 +14,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * 
- */
-int main(int argc, char** argv) {
-    printf("Hello, World!");
+void ex1();
 
+int main(int argc, char** argv) {
+    ex1();
+    
     return (EXIT_SUCCESS);
 }
 
