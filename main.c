@@ -15,10 +15,11 @@
 #include <stdlib.h>
 
 void ex1();
+void w03ex1();
 
 int main(int argc, char** argv) {
-    ex1();
-    
+    // ex1();
+    w03ex1();
     return (EXIT_SUCCESS);
 }
 
